@@ -1,5 +1,9 @@
-# accio-agents
+# Occio Agentes
 
+![Occio Agentes — seu squad de IA para fazer acontecer](assets/hero.png)
+
+> **Idealize. Planeje. Aprove. Acontece.** — você no controle, a IA executa.
+>
 > Plataforma de orquestração de agentes de IA inspirada no **Accio Work** (Alibaba International), adaptada para o mercado **SMB brasileiro**.
 
 **Status:** fase de planejamento — abr/2026
